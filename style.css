@@ -1,0 +1,36 @@
+html {
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Maven Pro', sans-serif; Verdana, sans-serif
+  }
+
+  .wrapper {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      padding: 0px;
+  }
+
+  header {
+      background-color: #FACC42;
+  }
+
+  nav {
+      background-color: #FBF7ED;
+  }
+
+  main {
+      background-color:  ;
+  }
+
+  footer {
+      background-color: #FACC42;
+  }
+
+  main {
+      background-color: #FBF7ED;
+      flex-grow: 2;
+      padding: 10px;
+  }
